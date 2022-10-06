@@ -1,3 +1,3 @@
 # Expense-Tracker
 
-Will Update this once the app is ready
+-- Will update this once the app is ready. Thank you!
